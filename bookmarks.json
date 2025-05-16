@@ -1,0 +1,16 @@
+{
+    "BookmarkBarEnabled": true,
+    "ManagedBookmarks": [
+        {
+            "toplevel_name": "Managed Bookmarks"
+        },
+        {
+            "name": "Google",
+            "url": "https://www.google.com"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://www.youtube.com"
+        }
+    ]
+}
