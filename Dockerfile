@@ -28,8 +28,6 @@ COPY ./google-chrome.desktop /home/kasm-default-profile/Desktop/
 RUN chmod +x /home/kasm-default-profile/Desktop/google-chrome.desktop \
     && chown 1000:1000 /home/kasm-default-profile/Desktop/google-chrome.desktop
 
-# কাস্টম ব্যাকগ্রাউন্ড ইমেজ (ঐচ্ছিক)
-COPY ./bg_default.png /usr/share/backgrounds/bg_default.png
 
 ######### কাস্টমাইজেশন শেষ ###########
 
